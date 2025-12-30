@@ -10,8 +10,8 @@ This work serves as a technical foundation for applications in **Medical Diagnos
 ## Individual Contributions
 To demonstrate effective project management and collaboration, the roles were divided as follows:
 
-* **Shahmeer Hussain (@shahmeeerx):** Designed the digital processing pipeline, implemented the 50-tap Moving Average Filter, and authored the comprehensive technical report for academic submission.
-* **Amna Yousuf (@amna-014):** Developed the synthetic signal generation protocols ($1000\text{ Hz}$ sampling) and led the auto-correlation analysis for periodicity detection.
+* **Shahmeer Hussain [@shahmeeerx](https://github.com/shahmeeerx):** Designed the digital processing pipeline, implemented the 50-tap Moving Average Filter, and authored the comprehensive technical report for academic submission.
+* **Amna Yousuf [@amna-014](https://github.com/amna-014):** Developed the synthetic signal generation protocols ($1000\text{ Hz}$ sampling) and led the auto-correlation analysis for periodicity detection.
 
 ## 🛠️ Technical Methodology
 The processing pipeline implements the following engineering standards:
@@ -34,8 +34,8 @@ The image below illustrates the efficacy of the filtering pipeline in extracting
 * **`LICENSE`**: MIT License for open-source transparency.
 
 ## Development Team
-* **Shahmeer Hussain** — @shahmeeerx (2022F-BBM-014)
-* **Amna Yousuf** — @amna-014 (2022F-BBM-012)
+* **Shahmeer Hussain** — [@shahmeeerx](https://github.com/shahmeeerx) (2022F-BBM-014)
+* **Amna Yousuf** — [@amna-014](https://github.com/amna-014) (2022F-BBM-012)
 
 ---
 _© 2025 EMG Processing Project. Built for the Dept. of Biomedical Engineering, SSUET._
